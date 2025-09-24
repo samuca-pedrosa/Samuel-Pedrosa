@@ -2,8 +2,8 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> olá pessoas!
 
-[![Portfolio Badge](imagem aqui)](link aqui)
-[![Linkedin Badge](img aqui)](link aqui)
+[![Portfolio Badge](imagem aqui)]([link aqui](https://magic-portfolio-main-eight.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAadNDR2Uh2LayBxWbBz3UmLtWkcgLrEUdHOBmWLrsdq3IjavxmhnPGyyL5QhYw_aem_U_w6WsIRnrRPc3z9dGc7IA))
+[![Linkedin Badge](img aqui)]([link aqui](https://www.linkedin.com/in/samuel-pedrosa-71a993359/))
 [![Gmail Badge]imagem aqui)](link aqui)
 
 ## 💬 Quick overview
